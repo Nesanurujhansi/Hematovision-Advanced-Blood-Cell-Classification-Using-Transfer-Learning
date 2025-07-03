@@ -1,4 +1,4 @@
-# 🩸 HematoVision - Blood Cell Classification using Deep Learning
+# 🩸 HematoVision - Blood Cell Classification using Transfer Learning
 
 HematoVision is an AI-powered web application that classifies different types of blood cells using deep learning (MobileNetV2). The app allows users to upload blood cell images and get instant predictions, assisting in the diagnosis of blood disorders.
 
